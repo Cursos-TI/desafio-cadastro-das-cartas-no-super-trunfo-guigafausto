@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-int main(){
-    int população;
+int main(){    
+    int população;        // dados da carta 1
     float área;
     float pib;
     int numerosdept;      // numerosdept = numeros de ponto turísticos
     
     
-    int população2;
+    int população2;       // dados da carta 2
     float área2;
     float pib2;
-    int numerosdept2;      // numerosdept = numeros de ponto turísticos
+    int numerosdept2;     // numerosdept = numeros de ponto turísticos
 
     // Entrada e saida de dados da carta 1 e 2
 
